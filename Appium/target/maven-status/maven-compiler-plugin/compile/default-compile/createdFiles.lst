@@ -1,9 +1,0 @@
-com\abof\generic\BaseLib.class
-com\abof\generic\GetPropertyValue.class
-com\abof\pageobjects\HomeActivity.class
-com\abof\generic\WaitStatementLib.class
-com\abof\pageobjects\LoginActivity.class
-com\abof\pageobjects\SideMenuActivity.class
-com\abof\pageobjects\ProductListingActivity.class
-com\abof\generic\AppUtils.class
-com\abof\generic\ExcelUtils.class
