@@ -1,0 +1,7 @@
+AutomationName=UiAutomator2
+DeviceName=motoG5plus
+PlatformName=Android
+PlatformVersion=
+AppPackage=com.abof.android
+AppActivity=com.abof.android.MainActivity
+NoReset=true
